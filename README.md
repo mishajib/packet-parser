@@ -1,2 +1,2 @@
 # Packet Parser
-Packert parser by JavaScript &amp; Python
+Packet parser by JavaScript &amp; Python
